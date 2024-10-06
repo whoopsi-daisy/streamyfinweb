@@ -7,7 +7,7 @@
 /* CONTACT */
 Website: https://www.streamyfin.app/
 GitHub: https://github.com/fredrikburmester/streamyfin
-Discord: https://discord.gg/CQqGrN4j
+Discord: https://discord.gg/aJvAYeycyY
 
 /* ABOUT */
 Streamyfin is a mobile Jellyfin client available for Android and iOS, designed to enhance your media streaming experience. Built with user-friendly principles, it offers offline access, a customizable interface, and much more.
