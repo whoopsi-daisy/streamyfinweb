@@ -9,7 +9,7 @@ export default function HomePage() {
       <header className="bg-gradient-to-b from-[#2a2660cc] to-transparent text-white py-4">
         <div className="container mx-auto flex justify-between items-center">
           <div className="flex items-center">
-            <img src="/assets/images/icon_512x512.png" alt="Streamyfin Logo" className="h-8 sm:h-12" />
+            <img src="/assets/images/icon_new_withoutBackground.png" alt="Streamyfin Logo" className="h-8 sm:h-12" />
 
             <h1 className="text-4xl font-bold text-center sm:text-left ml-2 sm:ml-4">Streamyfin</h1>
           </div>
@@ -56,7 +56,7 @@ export default function HomePage() {
 
         <section id="download" className="text-center py-16">
           <h2 className="text-4xl font-bold text-white mb-6">Stream your media anywhere with Streamyfin.</h2>
-          <p className="text-xl text-white mb-8">The best Jellyfin client for iOS and Android. Access your media library seamlessly on your devices.</p>
+          <p className="text-xl text-white mb-8">A Jellyfin client for iOS and Android. Access your media library seamlessly on your devices.</p>
           <div className="flex justify-center space-x-4">
             <a href="https://apps.apple.com/app/streamyfin/id6593660679" target="_blank" rel="noopener noreferrer">
               <img src="/badges/app-store-badge.png" alt="Download on the App Store" className="h-10" />
@@ -94,9 +94,9 @@ const features = [
     image: '/assets/screenshots/screenshot3.png',
   },
   {
-    title: 'Offline Access',
-    description: 'Download media to your device and watch it offline, wherever you are.',
-    image: '/assets/screenshots/screenshot2.png',
+    title: 'Watch wherever you are',
+    description: 'fully featured downloads with background support, including transcoded downloads',
+    image: '/assets/screenshots/Screenshots_new/Iphone/Blue/streamyfin_blue (3).png',
   },
 ];
 
