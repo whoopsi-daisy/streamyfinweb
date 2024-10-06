@@ -86,7 +86,7 @@ const features = [
   {
     title: 'Browse Your Media Library',
     description: 'Access your media library of your Jellyfin server, including movies, TV shows, and music.',
-    image: '/assets/screenshots/screenshot4.png',
+    image: '/assets/screenshots/Screenshots_new/Iphone/Blue/streamyfin_blue (8).png',
   },
   {
     title: 'Seamless Playback',
