@@ -77,7 +77,7 @@ export default function Home() {
           <p>&copy; 2024 Streamyfin. All rights reserved.</p>
           <div className="flex justify-center space-x-4 mt-4">
             <a
-              href="https://github.com/fredrikburmester/streamyfin"
+              href="https://github.com/streamyfin/streamyfin"
               className="hover:underline"
             >
               GitHub
