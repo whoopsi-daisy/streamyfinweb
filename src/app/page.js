@@ -14,7 +14,7 @@ export default function HomePage() {
             <h1 className="text-4xl font-bold text-center sm:text-left ml-2 sm:ml-4">Streamyfin</h1>
           </div>
           <div className="flex items-center gap-x-4">
-            <a href="https://github.com/fredrikburmester/streamyfin" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/streamyfin" target="_blank" rel="noopener noreferrer">
               <img src="/assets/images/github.png" alt="GitHub" className="h-8 sm:h-9" />
             </a>
             <a href="https://discord.gg/aJvAYeycyY" target="_blank" rel="noopener noreferrer">
@@ -71,7 +71,7 @@ export default function HomePage() {
           <div className="container mx-auto text-center">
             <p>&copy; 2024 Streamyfin. All rights reserved.</p>
             <div className="flex justify-center space-x-4 mt-4">
-              <a href="https://github.com/fredrikburmester/streamyfin" className="hover:underline">GitHub</a>
+              <a href="https://github.com/streamyfin" className="hover:underline">GitHub</a>
               <a href='https://discord.gg/aJvAYeycyY' className='hover:underline'>Discord</a>
               <a href="mailto:fredrik.burmester@gmail.com?subject=Streamyfin" className="hover:underline">Contact Us</a>
             </div>
