@@ -17,7 +17,7 @@ export default function Home() {
         </div>
         <div className="flex flex-row gap-4 lg:gap-8 items-center">
           <div className="h-6 lg:h-8 aspect-square flex items-center justify-center">
-            <Link href="https://discord.gg/6sGx9J9">
+            <Link href="https://discord.gg/aJvAYeycyY">
             <Image
               src={"/assets/images/discord.png"}
               width={100}
@@ -28,7 +28,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="h-6 lg:h-8 aspect-square flex items-center justify-center">
-            <Link href="https://github.com/fredrikburmester/streamyfin">
+            <Link href="https://github.com/streamyfin/streamyfin">
             <Image
               src={"/assets/images/github.png"}
               width={100}
